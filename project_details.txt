@@ -1,20 +1,16 @@
 ************** Graph RAG ******************
 
 - Execution time for building the graph (entities, relationships and communities) for the Anatomy book - approx 2 hr 30 min
-- Cost to run again Open AI GPT 40 - approx 55 dollars
+- Cost to run again Open AI GPT-4o - approx 55 dollars
 - No of entities extracted 35652
 - No of relationships extracted 85968
 - No of communities built 12950
 
 ************* End of Graph RAG ************
-- Execution time for building the graph for the Anatomy book - approx 2 hr 30 min
-- Cost to run again Open AI GPT 40 - approx 55 dollars
-- No of entities extracted 35652
-- No of relationships extracted 85968
-- No of communities built 12950
 
 
 ************** Stanford NLP + Neo4J **************
+
 - Execution time for building the graph (entities, relationships) for the Anatomy book - approx 8 hrs
 - Cost to run - 0 dollars - since both Stanford NLP server and Neo4J server were run locally
 - No of entities extracted 78075
