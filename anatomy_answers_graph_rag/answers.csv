@@ -5,7 +5,7 @@ test_anatomy-question_002,B,
 test_anatomy-question_003,C,
 test_anatomy-question_004,B,
 test_anatomy-question_005,D,
-test_anatomy-question_006,A, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_006,A, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_007,B,
 test_anatomy-question_008,No Answer, GraphRAG did not find enough information to provide an answer
 test_anatomy-question_009,D,
@@ -17,7 +17,7 @@ test_anatomy-question_014,C,
 test_anatomy-question_015,C,
 test_anatomy-question_016,B,
 test_anatomy-question_017,D,
-test_anatomy-question_018,D, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_018,D, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_019,C,
 test_anatomy-question_020,C,
 test_anatomy-question_021,C,
@@ -27,25 +27,25 @@ test_anatomy-question_024,No answer, GraphRAG did not find enough information to
 test_anatomy-question_025,A,
 test_anatomy-question_026,C,
 test_anatomy-question_027,A,
-test_anatomy-question_028,C, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_028,C, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_029,B,
 test_anatomy-question_030,C,
 test_anatomy-question_031,B,
-test_anatomy-question_032,B, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
-test_anatomy-question_033,D, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_032,B, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_033,D, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_034,A,
 test_anatomy-question_035,No Answer, GraphRAG could not pick one correct answer
 test_anatomy-question_036,D,
 test_anatomy-question_037,C,
 test_anatomy-question_038,D,
 test_anatomy-question_039,C,
-test_anatomy-question_040,C, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_040,C, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_041,C,
 test_anatomy-question_042,B,
 test_anatomy-question_043,C,
 test_anatomy-question_044,A,
 test_anatomy-question_045,D,
-test_anatomy-question_046,B, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_046,B, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_047,C,
 test_anatomy-question_048,A,
 test_anatomy-question_049,C,
@@ -53,7 +53,7 @@ test_anatomy-question_050,D,
 test_anatomy-question_051,D,
 test_anatomy-question_052,B,
 test_anatomy-question_053,B,
-test_anatomy-question_054,B, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_054,B, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_055,B,
 test_anatomy-question_056,A,
 test_anatomy-question_057,C,
@@ -112,16 +112,16 @@ test_anatomy-question_109,A,
 test_anatomy-question_110,C,
 test_anatomy-question_111,C,
 test_anatomy-question_112,D,
-test_anatomy-question_113,A, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_113,A, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_114,A,
 test_anatomy-question_115,B,
 test_anatomy-question_116,D,
 test_anatomy-question_117,B,
 test_anatomy-question_118,B,
 test_anatomy-question_119,D
-test_anatomy-question_120,C, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_120,C, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_121,B,
-test_anatomy-question_122,C, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_122,C, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_123,B,
 test_anatomy-question_124,D,
 test_anatomy-question_125,B,
@@ -132,5 +132,5 @@ test_anatomy-question_129,No answer, GraphRAG could not pick one correct answer
 test_anatomy-question_130,A,
 test_anatomy-question_131,D,
 test_anatomy-question_132,A,
-test_anatomy-question_133,C, GraphRAG gave the correct answer but did not provide the Answer Choice (A-B-C-D)
+test_anatomy-question_133,C, GraphRAG gave an answer but did not provide the Answer Choice (A-B-C-D)
 test_anatomy-question_134,D,
