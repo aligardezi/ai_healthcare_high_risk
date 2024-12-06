@@ -1,0 +1,136 @@
+correct_answer,graph_rag_answer,is_graph_rag_answer_correct,graph_rag_answer_comment
+A,A,True,
+B,No Answer,False, Did not find enough information to provide an answer
+A,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+B,C,False,
+A,A,True,
+B,B,True,
+C,A,False,
+D,D,True,
+D,D,True,
+D,,False,
+D,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+A,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+B,B,True,
+D,D,True,
+D,D,True,
+C,C,True,
+C,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+B,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+A,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+A,A,True,
+B,No Answer,False, Did not find enough information to provide an answer
+B,D,False,
+C,No Answer,False, Did not find enough information to provide an answer
+C,A,False,
+D,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+D,D,True,
+C,C,True,
+C,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+A,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+A,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+D,No Answer,False, Did not find enough information to provide an answer
+D,D,True,
+B,B,True,
+B,B,True,
+B,B,True,
+D,B,False,
+A,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+D,No Answer,False, Did not find enough information to provide an answer
+D,A,False,
+D,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+B,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+B,No Answer,False, Did not find enough information to provide an answer
+D,D,True,
+C,No Answer,False, Did not find enough information to provide an answer
+D,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+A,No Answer,False, Did not find enough information to provide an answer
+D,No Answer,False, Did not find enough information to provide an answer
+A,No Answer,False, Did not find enough information to provide an answer
+D,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+A,A,True,
+A,A,True,
+C,C,True,
+D,No Answer,False, Did not find enough information to provide an answer
+B,B,True,
+B,B,True,
+C,C,True,
+B,B,True,
+B,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+A,A,True,
+D,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+B,B,True,
+D,No Answer,False, Did not find enough information to provide an answer
+A,A,True,
+C,A,False,
+A,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+A,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+D,D,True,
+D,D,True,
+C,C,True,
+B,A,False,
+A,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+C,C,True,
+D,No Answer,False, Did not find enough information to provide an answer
+D,No Answer,False, Did not find enough information to provide an answer
+A,A,True,
+C,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+D,No Answer,False, Did not find enough information to provide an answer
+A,No Answer,False, Did not find enough information to provide an answer
+A,A,True,
+B,B,True,
+D,No Answer,False, Did not find enough information to provide an answer
+B,B,True,
+B,B,True,
+D,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+B,B,True,
+C,No Answer,False, Did not find enough information to provide an answer
+B,B,True,
+D,No Answer,False, Did not find enough information to provide an answer
+B,No Answer,False, Did not find enough information to provide an answer
+C,C,True,
+C,No Answer,False, Did not find enough information to provide an answer
+A,A,True,
+A,No Answer,False, Did not find enough information to provide an answer
+A,No Answer,False, Did not find enough information to provide an answer
+D,No Answer,False, Did not find enough information to provide an answer
+A,No Answer,False, Did not find enough information to provide an answer
+C,No Answer,False, Did not find enough information to provide an answer
+D,No Answer,False, Did not find enough information to provide an answer
