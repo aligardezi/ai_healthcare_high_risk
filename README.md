@@ -33,7 +33,7 @@ We tried two approaches.
   - Used Neo4J to create a Graph for those entities and relationships.
   - For a question, extracted entities and relationships from the Graph.
   - Created a Prompt with the question, the extracted entities and relationships from the Graph and asked OpenAI to return an answer based on the data provided.
--  Approach#2
+- Approach#2
   - Used Microsoft Graph RAG to load data
   - Used Microsoft Graph RAG local query to provide answers to questions
 
