@@ -8,8 +8,8 @@ This repo contains the code for the final project for UT Austin AI In Healthcare
 
 The Project compared two implementations of Graph RAG.
 
--  Microsoft GraphRAG
--  StanfordNLP + Neo4J
+-  Microsoft GraphRAG (https://microsoft.github.io/graphrag/)
+-  StanfordCoreNLP + Neo4J (https://stanfordnlp.github.io/CoreNLP/, https://neo4j.com/)
 
 The steps executed were,
 
