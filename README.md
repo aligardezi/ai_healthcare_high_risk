@@ -1,8 +1,13 @@
-  # Summary
+# Summary
 
 This repo contains the code for the final project for UT Austin AI In Healthcare Class.
 
 (Presentation added in repo: TBD)
+
+Contributers
+  - Ali Gardezi: ali.imam.gardezi@gmail.com
+  - Ganesh Devaraj: ganesh.devaraj.msai@utexas.edu
+  - Kishore Kolli: kkolli@utexas.edu 
 
 # Project
 
